@@ -1,1 +1,1 @@
-graphics 80 percent
+graphics 40 percent
