@@ -1,1 +1,1 @@
-c code to hello world
+graphics 80 percent
